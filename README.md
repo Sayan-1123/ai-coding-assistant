@@ -1,7 +1,7 @@
 # AI Coding Assistant – Chrome Extension 🚀
 
-## 📽️ Demo Video  
-👉 [Watch the Demo](https://drive.google.com/file/d/1cy2D-lzPTYwFHiJWvVJM-K2fWncqDuBs/view?usp=sharing)  
+//  ## 📽️ Demo Video  
+// 👉 [Watch the Demo](https://drive.google.com/file/d/1cy2D-lzPTYwFHiJWvVJM-K2fWncqDuBs/view?usp=sharing)  
 
 ---
 
