@@ -1,47 +1,80 @@
-# ReadMe
+AI Coding Assistant – Chrome Extension 🚀
+📽️ Demo Video
 
-## Demo Video Link for the Chrome Extension. 
-  https://drive.google.com/file/d/1cy2D-lzPTYwFHiJWvVJM-K2fWncqDuBs/view?usp=sharing
+👉 Watch the Demo
 
-## Features
+✨ Features
 
-1. **MVP Implementation**  
-   - The MVP can open a popup to input your API key.  
-   - Once saved, a button is dynamically added to the DOM for accessing the chatbot.  
-   - The chatbot allows sending and receiving messages seamlessly.
+MVP Implementation
 
-2. **API Key Input**  
-   - Added a feature to securely input your personal API key directly in the HTML popup.
+Opens a popup to input your API key.
 
-3. **Dynamic Chatbox**  
-   - The chatbot box is fully dynamic and reshapes itself based on the DOM size for an optimized user experience.
+Once saved, an AI Helper button is dynamically injected into the DOM.
 
-4. **Persistent Chat History**  
-   - Chat history is stored for each problem ID, ensuring conversations don’t disappear upon reloading.
+Seamless chatbot experience for sending and receiving messages.
 
-5. **Clear Chat Feature**  
-   - Includes a button to clear the chat history if needed.
+Secure API Key Input
 
-6. **Automatic Context Provision**  
-   - Automatically provides the problem context to the AI in the first message. Subsequent messages contain only user inputs for clarity.
-     
-7. **Readable Message Code**  
-   - Automatically renders the message elements code , so that it becomes readable and also highlights the important part in the message element.
-   
-8. **Added the Generative Chat Feature 
-   - chat can remember the previous messages to it, so that it can remember the Previous Conversation  
+Enter your personal API key directly in the popup.
 
----
+Stored securely for extension use.
 
-## How To Use
+Dynamic Chatbox
 
-1. **Enter Your API Key**  
-   - Click on the extension icon to open the popup.  
-   - Input your personal API key and click **Save**.  
+Responsive chatbot box that adjusts automatically to the DOM size for a smooth experience.
 
-2. **Open the Chatbot**  
-   - Click on the **AI Helper** button dynamically added to the DOM to open the chatbox.  
+Persistent Chat History
 
-3. **Start Chatting**  
-   - Type your prompts and questions in the chatbox.  
-   - The chatbot will respond to your queries dynamically, using the provided context.
+Chat history is stored per problem ID.
+
+Conversations remain intact even after page reload.
+
+Clear Chat Option
+
+One-click button to clear stored chat history.
+
+Automatic Context Sharing
+
+First message automatically sends problem context to the AI.
+
+Subsequent messages only contain user queries for clarity.
+
+Readable & Highlighted Code Responses
+
+Code blocks in responses are rendered in a readable format.
+
+Important parts are highlighted automatically.
+
+Generative Chat Memory
+
+Chat remembers previous messages.
+
+Maintains context across the conversation.
+
+🚀 How to Use
+
+Install the Extension
+
+Clone or download this repo.
+
+Go to chrome://extensions/ in Chrome.
+
+Enable Developer Mode and click Load unpacked.
+
+Select the project folder.
+
+Enter Your API Key
+
+Click on the extension icon to open the popup.
+
+Input your API key and click Save.
+
+Open the Chatbot
+
+Click on the AI Helper button that appears in the DOM.
+
+Start Chatting
+
+Type your question or prompt in the chatbox.
+
+The chatbot will respond dynamically using context + your input.
