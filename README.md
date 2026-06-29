@@ -1,4 +1,4 @@
-# AI Coding Assistant – Chrome Extension 🚀
+# AI Coding  Assistant – Chrome Extension 🚀
 
 
 ---
